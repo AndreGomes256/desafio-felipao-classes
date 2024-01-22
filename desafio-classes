@@ -1,0 +1,7 @@
+let Hero ={
+  Name: "Naruto",
+  age : 20,
+  class: "Ninja",
+}
+let Heroattack = " attack using Shuriken!"
+console.log("The " + Hero.class + Heroattack)
